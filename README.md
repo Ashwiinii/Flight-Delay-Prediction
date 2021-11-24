@@ -7,5 +7,5 @@ A two stage predictive machine learning engine that forecasts the on-time perfor
 The pipeline architecture to calculate the delay using ML models is illustrated below.
 
 <p>
-    <img src="FLIGHT_DELAY.png" width="500" alt="Pipeline Architecture">
+    <img src="FLIGHT_DELAY.png" width="1500" alt="Pipeline Architecture">
 </p>
